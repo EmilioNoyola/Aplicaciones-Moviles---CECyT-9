@@ -16,7 +16,7 @@ que puedes utilizar
 */
 
 //DECLARACION DE VARIABLES
-let nombre = "Adam";
+let nombre = "Emilio";
 const PI = 3.1416;
 var edad = 18;
 
