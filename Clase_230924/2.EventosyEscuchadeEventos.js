@@ -1,3 +1,4 @@
+// Ejercicio 2 - Clase 8 - 24/09/2024 - Noyola Gómez Emilio Damian - 5IV9
 const botonColor = document.getElementById('cambiarColor');
 
 // Añadir un listener al botón para manejar el evento Click.
