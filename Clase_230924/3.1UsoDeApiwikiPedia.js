@@ -1,0 +1,1 @@
+const terminoBusqueda = 'Programación'; // Termino 
