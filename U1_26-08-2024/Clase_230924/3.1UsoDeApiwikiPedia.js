@@ -1,5 +1,5 @@
 // Ejercicio 3 - Clase 8 - 24/09/2024 - Noyola Gómez Emilio Damian - 5IV9
-const terminoBusqueda = 'Programación'; // Termino que deseas buscar
+const terminoBusqueda = 'Emilio Noyola'; // Termino que deseas buscar
 const url = `https://es.wikipedia.org/w/api.php?action=query&list=search&srsearch=${terminoBusqueda}&format=json&origin=*`;
 
 // Función para obtener resultados de Wikipedia
