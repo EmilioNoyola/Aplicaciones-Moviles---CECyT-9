@@ -151,5 +151,5 @@ alert(user.activo ? 'Activo' : 'Dado de baja');
 // Mostrar en Consola Nombre, Apellidos, Estado Civil:
 console.log(user.nombre + ' ' + user.apellido + ' esta ' + user.edoCivil);
 
-// Notificación que muestre el estado del mensaj
+// Notificación que muestre el estado del mensaje:
 alert(user.enviarMensaje());
